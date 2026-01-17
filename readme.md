@@ -28,7 +28,6 @@ Customer churn is a major challenge for many companies. By analyzing historical 
 ├── notebooks/
 │ └── model_training.ipynb
 ├── app.py # Streamlit application
-├── predict.py # Model prediction script
 ├── train.py # Model training script
 ├── requirements.txt
 └── README.md
@@ -80,11 +79,14 @@ The Streamlit app provides:
 
 To run the app:
 
-```bash
+
+
 streamlit run app.py
 
 Name: Altaf Ali
+
 Role: Data Science / Machine Learning Enthusiast
+
 Email: altafali086789@gmail.com
 
 GitHub: https://github.com/Altaf-Ali-git
